@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Web Hosting, Designing, Development and App Development**
 
-- 📫 How to reach me **contact@anilshivakoti.com.np**
+- 📫 How to reach me <a href="mailto:contact@anilshivakoti.com.np">Email Me</a>
 
 - 📄 Know about my experiences [MY RESUME](https://anilshivakoti.com.np/uploads/files/personal/cv_file_991.pdf)
 
