@@ -16,9 +16,9 @@
 
 - 👯 I’m also engaged on Social App [SwfTea](https://swftea.com)
 
-- 👨‍💻 More about me are available at [https://anilshivakoti.com.np](https://anilshivakoti.com.np)
+- 👨‍💻 More about me are available at <a href="https://anilshivakoti.com.np](https://anilshivakoti.com.np">My Portfolio</a>
 
-- 📝 Sometimes I write articles on [https://anilshivakoti.com.np/?blog_active=1](https://anilshivakoti.com.np/?blog_active=1)
+- 📝 Sometimes I write articles on <a href="https://anilshivakoti.com.np/?blog_active=1](https://anilshivakoti.com.np/?blog_active=1">My Blog </a>
 
 - 💬 Ask me about **Web Hosting, Designing, Development and App Development**
 
