@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anil Shivakoti</h1>
-<h3 align="center">A passionate Freelancer from Nepal</h3>
+<h1 align="center">Hi, Namaste 👋, I'm Anil Shivakoti</h1>
+<h3 align="center">A passionate Freelancer from Nepal since 2011</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eklomanchhe&label=Profile%20views&color=0e75b6&style=flat" alt="eklomanchhe" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m also engaged on Social App [SwfTea](https://swftea.com)
 
-- 👨‍💻More about me are available at [https://anilshivakoti.com.np](https://anilshivakoti.com.np)
+- 👨‍💻 More about me are available at [https://anilshivakoti.com.np](https://anilshivakoti.com.np)
 
 - 📝 Sometimes I write articles on [https://anilshivakoti.com.np/?blog_active=1](https://anilshivakoti.com.np/?blog_active=1)
 
