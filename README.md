@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **contact@anilshivakoti.com.np**
 
-- 📄 Know about my experiences [https://anilshivakoti.com.np/uploads/files/personal/cv_file_991.pdf](https://anilshivakoti.com.np/uploads/files/personal/cv_file_991.pdf)
+- 📄 Know about my experiences [MY RESUME](https://anilshivakoti.com.np/uploads/files/personal/cv_file_991.pdf)
 
 - ⚡ Fun fact **I am hardworking and funny in working enviroment**
 
