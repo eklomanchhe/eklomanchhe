@@ -54,3 +54,10 @@ I'm a Nepal based Web & App developer and content creator.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eklomanchhe&show_icons=true&locale=en&layout=compact" alt="eklomanchhe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eklomanchhe&show_icons=true&locale=en" alt="eklomanchhe" /></p>
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   I embarked on my coding journey in 2011, initially starting as a Webpage Designer. Seeking to enhance my skills in 2014, I enrolled as a novice computer science student, driven by a fervent passion to delve into every aspect of the programming realm, encompassing code, Unix, Linux, and theory. Concurrently, I self-taught app development with the aspiration of creating my own application. However, this ambition eventually took a backseat to my determination to excel in PHP and Java, leading me to secure a job in IT Support and DevOps engineering upon graduation.
+
+Amidst these professional pursuits, I nurtured another aspiration — creating YouTube Vlogs. Nevertheless, I made the decision to relinquish my Vlogging endeavors and commit fully to a career in IT, a choice that has remained my primary focus ever since. Alongside my full-time IT roles, I have also been actively engaged in freelance work within the IT sector since 2011.
+
