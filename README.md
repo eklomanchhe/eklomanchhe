@@ -1,10 +1,21 @@
-<h1 align="center">Hi, Namaste 👋, I'm Anil Shivakoti</h1>
-<h3 align="center">A passionate Freelancer from Nepal since 2011</h3>
+# 🏄‍♂️ Anil Shivakoti
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eklomanchhe&label=Profile%20views&color=0e75b6&style=flat" alt="eklomanchhe" /> </p>
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eklomanchhe" alt="eklomanchhe" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[shivakotianil][youtube]" to more than 400k subscribers.
+
+   <p align="left">
+      <a href="https://www.youtube.com/c/shivakotianil?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/shivakotianil">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/eklomanchhe?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/eklomanchhe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/eklomanchhe?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/eklomanchhe?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
 
 
 <p align="left"> <a href="https://twitter.com/shivakotianil" target="blank"><img src="https://img.shields.io/twitter/follow/shivakotianil?logo=twitter&style=for-the-badge" alt="shivakotianil" /></a> </p>
