@@ -5,6 +5,7 @@
 I'm a Nepal based Web & App developer and content creator.
 
    <p align="left">
+      <a href="https://twitter.com/shivakotianil" target="blank"><img src="https://img.shields.io/twitter/follow/shivakotianil?logo=twitter&style=for-the-badge" alt="shivakotianil" /></a>
       <a href="https://www.youtube.com/@shivakotianil?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrvO8gZIwuLSrx57vY1pNmg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@shivakotianil">
@@ -18,7 +19,7 @@ I'm a Nepal based Web & App developer and content creator.
 ---
 
 
-<p align="left"> <a href="https://twitter.com/shivakotianil" target="blank"><img src="https://img.shields.io/twitter/follow/shivakotianil?logo=twitter&style=for-the-badge" alt="shivakotianil" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eklomanchhe&label=Profile%20views&color=0e75b6&style=flat" alt="eklomanchhe" /> </p>
 
 
 - 🔭 I’m currently working as IT Support Engineer on [LocalBazaar](https://localbazaar.com.np)
