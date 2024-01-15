@@ -32,13 +32,14 @@
 
 - 📝 Sometimes I write articles on <a href="https://anilshivakoti.com.np/?blog_active=1](https://anilshivakoti.com.np/?blog_active=1">My Blog </a>
 
-- 💬 Ask me about **Web Hosting, Designing, Development and App Development**
-
 - 📫 How to reach me <a href="mailto:contact@anilshivakoti.com.np">Email Me</a>
 
 - 📄 Know about my experiences [MY RESUME](https://anilshivakoti.com.np/uploads/files/personal/cv_file_991.pdf)
 
 - ⚡ Fun fact **I am hardworking and funny in working enviroment**
+
+- 💬 Ask me about **Web Hosting, Designing, Development and App Development**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
