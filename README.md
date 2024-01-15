@@ -20,6 +20,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eklomanchhe&label=Profile%20views&color=0e75b6&style=flat" alt="eklomanchhe" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working as IT Support Engineer on [LocalBazaar](https://localbazaar.com.np)
