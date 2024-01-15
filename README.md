@@ -2,8 +2,8 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I offer dependable and top-notch IT support tailored to your needs. Additionally, I am a web and app developer as well as a content creator based in Nepal.
-
+**I offer dependable and top-notch IT support tailored to your needs. Additionally, I am a web and app developer as well as a content creator based in Nepal.
+**
    <p align="left">
       <a href="https://twitter.com/shivakotianil" target="blank"><img src="https://img.shields.io/twitter/follow/shivakotianil?logo=twitter&style=for-the-badge" alt="shivakotianil" /></a>
       <a href="https://www.youtube.com/@shivakotianil?sub_confirmation=1">
